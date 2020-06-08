@@ -1,0 +1,61 @@
+body{
+  background: #6A0856;
+  font-size: 20px;
+}
+.logo{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app-title{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: #fff;
+}
+
+.container{
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+  color:#fff;
+}
+
+.input-text{
+  border-radius: 5px;
+  border: groove;
+  color:#000;
+  padding: 5px 5px;
+}
+.add-btn{
+  border-radius: 5px;
+  margin-left: 12px;
+  background-color: #2475B0;
+  cursor: pointer;
+  border:none;
+  padding: 5px 5px;
+}
+.list ul {
+background-color: #fff;
+color:#000;
+list-style: none;
+padding:5px;
+}
+
+.list ul li {
+  border:1px solid;
+  border-right: none;
+  border-left: none;
+  margin: 1px;
+  }
+
+.btn{
+  background-color: #E71C23;
+  cursor: pointer;
+  border:none;
+  padding: 5px 5px;
+  border-radius: 5px;
+  float:right;
+}
